@@ -1,3 +1,5 @@
+Project 2 - Bootcamp UofT and edX
+
 ## Crowdfunding ETL Project
 
 ## Project Overview
@@ -11,7 +13,6 @@ it into a PostgreSQL database. The project demonstrates skills in data extractio
 4. Steps to Reproduce the Project
 5. Project Structure
 6. References
-7. Acknowledgments
 
 ## Technologies Used
 Python: For data extraction and transformation.
@@ -35,44 +36,6 @@ pgAdmin 4: For PostgreSQL database operations and CSV imports.
 * Import the generated CSV files into PostgreSQL using pgAdmin 4.
 
 * Use SQL SELECT statements to confirm the data is correctly loaded into each table.
-
-## Steps to Reproduce the Project
-## Crowdfunding ETL Project
-
-## Project Overview
-This project focuses on building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and PostgreSQL. The goal is to extract data from Excel files, transform it into structured DataFrames, and load it into a PostgreSQL database. The project demonstrates data cleaning, transformation, and database management skills.
-
-## Table of Contents
-1. Project Overview
-2. Technologies Used
-3. Setup Instructions
-4. Steps to Reproduce the Project
-5. Database Tables
-6. Folder Structure
-7. References
-
-## Technologies Used
-Python: For data extraction and transformation.
-
-Pandas: For data manipulation and cleaning.
-
-PostgreSQL: For database management.
-
-QuickDBD: For designing the Entity-Relationship Diagram (ERD).
-
-pgAdmin 4: For database operations and CSV imports.
-
-## Setup Instructions
-
-Clone the repository: git clone https://github.com/<your-username>/Crowdfunding_ETL.git
-
-Open the Jupyter notebook and run the cells to generate the CSV files.
-
-Execute the SQL script (crowdfunding_db_schema.sql) in PostgreSQL to create the database schema.
-
-Import the CSV files into the database using pgAdmin 4 or the COPY command.
-
-Verify the data by running SELECT queries in PostgreSQL.
 
 ## Steps to Reproduce the Project
 1. Extract and Transform Data
