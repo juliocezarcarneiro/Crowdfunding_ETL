@@ -121,3 +121,5 @@ The repository is organized as follows:
 
 * ChatGPT – Assisted with project guidance.
 
+* https://www.w3schools.com/python/ref_string_strip.asp: Python String strip() Method.
+
